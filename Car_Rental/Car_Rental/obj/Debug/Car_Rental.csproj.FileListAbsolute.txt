@@ -1,0 +1,8 @@
+C:\Users\Paweł\Desktop\IT\.Kurs_C#\.Programs\.My_Programs\CarRental\Car_Rental\Car_Rental\bin\Debug\Car_Rental.exe.config
+C:\Users\Paweł\Desktop\IT\.Kurs_C#\.Programs\.My_Programs\CarRental\Car_Rental\Car_Rental\bin\Debug\Car_Rental.exe
+C:\Users\Paweł\Desktop\IT\.Kurs_C#\.Programs\.My_Programs\CarRental\Car_Rental\Car_Rental\bin\Debug\Car_Rental.pdb
+C:\Users\Paweł\Desktop\IT\.Kurs_C#\.Programs\.My_Programs\CarRental\Car_Rental\Car_Rental\obj\Debug\Car_Rental.csproj.AssemblyReference.cache
+C:\Users\Paweł\Desktop\IT\.Kurs_C#\.Programs\.My_Programs\CarRental\Car_Rental\Car_Rental\obj\Debug\Car_Rental.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paweł\Desktop\IT\.Kurs_C#\.Programs\.My_Programs\CarRental\Car_Rental\Car_Rental\obj\Debug\Car_Rental.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\IT\.Kurs_C#\.Programs\.My_Programs\CarRental\Car_Rental\Car_Rental\obj\Debug\Car_Rental.exe
+C:\Users\Paweł\Desktop\IT\.Kurs_C#\.Programs\.My_Programs\CarRental\Car_Rental\Car_Rental\obj\Debug\Car_Rental.pdb

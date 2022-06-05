@@ -1,0 +1,5 @@
+USE CarRental
+GO
+ALTER TABLE Cars
+ADD PRIMARY KEY (IDCar)
+GO

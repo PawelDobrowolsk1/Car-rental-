@@ -1,0 +1,7 @@
+USE CarRental
+GO
+ALTER TABLE CarsRentedInfo
+ADD CONSTRAINT FK_Cars_CarsRentedInfo
+FOREIGN KEY (IDCar)
+REFERENCES Cars (IDCar)
+GO

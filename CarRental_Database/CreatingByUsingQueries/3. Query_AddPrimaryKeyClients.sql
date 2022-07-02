@@ -1,5 +1,0 @@
-USE CarRental
-GO
-ALTER TABLE Clients
-ADD PRIMARY KEY (IDClient)
-GO

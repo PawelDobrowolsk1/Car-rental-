@@ -1,8 +1,8 @@
 CREATE DATABASE CarRental
 CONTAINMENT = NONE
 ON PRIMARY 
-( NAME = N'MovieRental', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\CarRental.mdf',
+( NAME = N'CarRental', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\CarRental.mdf',
 SIZE = 5120KB, MAXSIZE = UNLIMITED, FILEGROWTH = 1024KB)
-LOG ON (NAME = N'MovieRental_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\CarRental.ldf',
+LOG ON (NAME = N'CarRental_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\CarRental.ldf',
 SIZE = 1024KB, MAXSIZE = 2048KB, FILEGROWTH = 10%)
 GO
